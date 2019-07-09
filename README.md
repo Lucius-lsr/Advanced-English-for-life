@@ -1,5 +1,9 @@
 # Advanced-English-for-life
 生活英语进阶（2019-春） 学堂在线慕课答案
+> 分享是一种美德
+> readme文档中有所有的答案，如果觉得不方便，每一章的也答案单独在一个文档中
+> 期末考试答案暂缺，亟待更新
+> 有错误欢迎矫正
 # Unit 1 Cultural Studies
 ## 1. Introduction
 ADBDB

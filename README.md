@@ -1,7 +1,21 @@
-## Advanced-English-for-life
-生活英语进阶慕课答案（2019-春）
-## Unit 1 Cultural Studies
-# 1. Introduction
+# Advanced-English-for-life
+生活英语进阶（2019-春） 学堂在线慕课答案
+# Unit 1 Cultural Studies
+## 1. Introduction
 ADBDB
-# 2. Listening
-BBBBBBB
+## 2. Listening
+BBBBB BB
+## 3. Group Disdussion
+ADCDB A
+## 4. Topic and Text
+BACCA C
+## 5. Vocabulary
+AABBC CCDAA BBCCD DAABB BD
+## 6. Acadamic writing
+ABCB
+## 7. Skills Power Staton
+ACBDA DBDAB
+## 8. Student Reasrch
+DCABC ABCDA C
+## 9. Summary
+ABDAB CDA

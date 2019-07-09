@@ -13,9 +13,9 @@ BACCA C
 AABBC CCDAA BBCCD DAABB BD
 ## 6. Acadamic writing
 ABCB
-## 7. Skills Power Staton
+## 7. Skills Power Station
 ACBDA DBDAB
-## 8. Student Reasrch
+## 8. Student Research
 DCABC ABCDA C
 ## 9. Summary
 ABDAB CDA
